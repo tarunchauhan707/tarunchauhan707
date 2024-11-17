@@ -30,21 +30,21 @@ Here are some of the projects I have worked on:
 
 - **[Quiz App](https://github.com/tarunchauhan707/Quiz-App)**  
   A web-based quiz application built with:
-  ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=white)
+  -![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
 - **[AdFree Viewer](https://github.com/tarunchauhan707/Ad-Free-Youtube)**  
   A web application that allows users to view YouTube videos or playlists without ads by inputting a YouTube link. Built with:
-   ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=white)
+   -![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=white)
    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
    ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
    - ![Link](https://ad-free-youtube-j1ou.vercel.app/).
 
 - **[NanoNode](https://github.com/tarunchauhan707/NanoNode)**  
   A URL shortening platform developed using:
-   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+   -![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
    ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
   - ![Link](https://github.com/tarunchauhan707/NanoNode)
