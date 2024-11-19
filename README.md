@@ -78,8 +78,8 @@ Feel free to reach out to me at:
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-00599C?style=flat&logo=gmail&logoColor=white)](mailto:tarun.kumarr.23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-kumar-57a2a7255/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tarunchauhan707)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_tarunkr_chauhan/)
+[!(https://img.shields.io/badge/Email-00599C?style=flat&logo=gmail&logoColor=white)](mailto:tarun.kumarr.23@gmail.com)
+[!(https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-kumar-57a2a7255/)
+[!(https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tarunchauhan707)
+[!(https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_tarunkr_chauhan/)
 
