@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Tarun Chauhan
-I'm a passionate web developer with a strong foundation in front-end technologies.
+I'm a MERN Stack Developer and an avid Competitive Programmer with a passion for solving challenging problems and building scalable web applications. Currently pursuing my studies at Netaji Subhas University of Technology (NSUT), Dwarka, I am constantly honing my skills in full-stack development and algorithmic thinking.
 
 ## 🚀 Technologies & Tools
 
