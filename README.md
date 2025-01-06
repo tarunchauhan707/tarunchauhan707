@@ -76,9 +76,23 @@ Here are some of the projects I have worked on:
 
 Feel free to reach out to me at:
 
-[![Email](https://img.shields.io/badge/Email-00599C?style=flat&logo=gmail&logoColor=white)](mailto:tarun.kumarr.23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-kumar-57a2a7255/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tarunchauhan707)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_tarunkr_chauhan/)
-
+<table>
+  <tr>
+    <td>
+      <a href="mailto:tarun.kumarr.23@gmail.com">
+        <img src="https://github.com/user-attachments/assets/8715c172-69a7-4ec0-9ca9-077694b91dab" alt="Email" width="40" height="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/tarun-kumar-57a2a7255/">
+        <img src="https://github.com/user-attachments/assets/fe65f2aa-6513-489e-bb6f-f8bdb3a92b9d" alt="LinkedIn" width="40" height="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/tarunchauhan707">
+        <img src="https://github.com/user-attachments/assets/aa44f4e2-4164-4779-bcbe-b679cf0b0438" alt="GitHub" width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
