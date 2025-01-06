@@ -63,14 +63,13 @@ Here are some of the projects I have worked on:
 
 ---
 
-## 🚀 GitHub Stats
+## 🚀 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunchauhan707&show_icons=true&count_private=true&hide=prs&theme=radical)
+![TARUN CHAUHAN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunchauhan707&show_icons=true&count_private=true&hide=prs&theme=github_dark&border_radius=10)
 
-## 🚀 Most Used Languages
+## 🚀 Most Used Languages  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunchauhan707&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunchauhan707&layout=compact&theme=github_dark&border_radius=10)
 
 ## Contact
 
